@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: cursive;
+}
+
+html,body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+#string {
+  height: 75px;
+  width: 100%;
+  
+}
+
+svg {
+  background-color: red;
+
+}
+
+svg path {
+  border: 1px solid white;
+}
+
+
